@@ -1,0 +1,30 @@
+.Sidebar {
+    width: 250px;
+    height: 100vh;
+    background-color: #181B39;
+  }
+
+p {
+  color: #d8d8d8;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+p > svg {
+  width: 20px;
+  height: 20px;
+  margin-right: 8px;
+}
+
+.logo {
+  width: 100px;
+  margin-top: 24px;
+  margin-left: 24px;
+  margin-bottom: 24px;
+}
+
+.icon-text-container {
+  margin-top: 8px;
+  margin-left: 24px;
+}
